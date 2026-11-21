@@ -1,0 +1,14 @@
+{
+    "death": {
+        "context_name": "death",
+        "menu_name": {
+            "appmenu.death": {
+                "en": "death",
+                "en-tts": "death",
+                "fr": "death",
+                "ja": "death",
+                "zh": "death"
+            }
+        }
+    }
+}
